@@ -1,0 +1,21 @@
+DAY-1
+
+GIT-free and open source, version control system
+GITHUB- web based platform 
+
+1. create a folder name it
+2.go to note pad give an personal info html, css code 
+3.save it 
+4.in cmd type 
+-git init
+-next git add
+-git commit -m "my first commit"
+-git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+  give the details 
+-git commit -m "my first commit"
+ it shows our file names
+to check braches
+-git branch
+-git branch -M master
+-git push -u origin master
