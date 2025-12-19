@@ -1,0 +1,13 @@
+
+branch
+git clone - download
+git fork - copy
+how to merge
+how to pull and push files to git
+soe website
+collabrators 
+create a branch 
+add food delivery project to our account
+add new people in repository
+add file to GitHub 
+
